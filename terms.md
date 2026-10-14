@@ -1,6 +1,6 @@
 # OpenClaw — Terms of Service
 
-**Operated by Samrat Banerjee, under the name SUnique Homelab**
+**Operated by:** Samrat Banerjee, under the name SUnique Homelab 
 **Effective date:** 14 October 2026  
 **Last updated:** 14 October 2026
 
